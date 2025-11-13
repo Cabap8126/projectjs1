@@ -1,0 +1,8 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.body{
+    width: 200px;
+    height: 200px;
+}
